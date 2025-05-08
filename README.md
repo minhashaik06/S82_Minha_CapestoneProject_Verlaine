@@ -46,5 +46,6 @@
 
 ## 🤍 Why "Verlaine"?
 
-Inspired by poet **Paul Verlaine**, this app turns the mundane act of skincare into an experience filled with beauty and rhythm — much like poetry.
+Inspired by poet **Paul Verlaine**, this app turns the mundane act of skincare into an experience filled with beauty and rhythm — much like poetry 💅🎀.
+
 
